@@ -63,7 +63,7 @@ disp(delay_time*0.1);
 <br>
 
 <div align="center">
-<img src="./output.png" alt="Figure-1: Cross-correlation of Delayed Signal Output">
+<img src="./outputwave.png" alt="Figure-1: Cross-correlation of Delayed Signal Output">
 <br>
 <h4> Figure-1: Cross-correlation of Delayed Signal Output </h4> 
 </div>
